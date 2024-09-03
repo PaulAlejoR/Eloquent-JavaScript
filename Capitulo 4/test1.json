@@ -1,0 +1,16 @@
+[
+    {
+        "marca": "Apple",
+        "version iOS": "17.5.1",
+        "nombre de modelo": "iPhone 11",
+        "numero de modelo": "MWJ52LL/A",
+        "numero de serie": "G0NC30FCN72X"
+    },
+    {
+        "marca": "Samsung",
+        "version Android": 14,
+        "nombre de modelo": "Galaxy A55 5G",
+        "numero de modelo": "SM-A556E/DS",
+        "numero de serie": "R5CX340G3JW"
+    }
+]
